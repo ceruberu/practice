@@ -1,0 +1,45 @@
+#content-first {
+  background-color:grey;
+}
+#content-second {
+  background-color:lightgrey;
+}
+#content-third {
+  background-color:lightblue;
+}
+.important {
+  font-size:120%;
+  font-weight:bold;
+  font-color:lightred;
+}
+
+#comment {
+  box-sizing: border-box;
+  width: 400px;
+  height: 450px;
+  border: 2px solid lightblue;
+}
+
+.comments {
+  box-sizing:border-box;
+  width: 350px;
+  height: 100px;
+  margin: 20px 25px 20px 25px;
+  border: 2px solid lightblue;
+  text-align: center;
+}
+#navigation-blog {
+  box-sizing: border-box;
+  width: 200px;
+  height: 100px;
+  text-align:center;
+  border: 2px solid black;
+}
+
+#comment-box {
+  text-align:center;
+  background-color:grey;
+  margin: 0 auto;
+  width: 100px;
+
+}

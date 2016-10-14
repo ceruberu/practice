@@ -1,0 +1,35 @@
+.container {
+
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+#header {
+  background-color:tomato;
+  position:fixed;
+  top: 0;
+  left: 0;
+  width:960px;
+  height:45px;
+}
+
+#brand {
+  background-color: orange;
+}
+
+#nav {
+  background-color: lightgreen;
+}
+
+#content {
+  background-color: lightblue;
+  margin-top: 45px;
+}
+ul {
+  max-width:960;
+  margin: 0 auto;
+}
+li {
+  float:left;
+  width: 100px;
+}

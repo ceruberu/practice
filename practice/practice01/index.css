@@ -1,0 +1,37 @@
+
+body, div, p, h1, h2, h3, h4, h5, h6, form, button {
+  margin:0;
+  padding:0;
+}
+
+#header {
+
+  z-index:100;
+  width:100%;
+
+}
+
+#nav {
+  position:relative;
+  height: 30px;
+  background-color: gainsboro;
+  border-bottom: 1px solid #dfdfdf;
+}
+
+img{
+  height:30px;
+  width:30px;
+
+}
+
+.menu {
+  float:left;
+  display:block;
+  margin-left: 300px;
+  text-align:center;
+
+}
+
+a:hover {
+  
+}
